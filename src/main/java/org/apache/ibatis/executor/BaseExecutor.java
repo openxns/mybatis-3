@@ -65,7 +65,7 @@ public abstract class BaseExecutor implements Executor {
   protected PerpetualCache localOutputParameterCache;
   protected Configuration configuration;
 
-  //查询堆栈
+  //查询堆栈 堆栈
   protected int queryStack = 0;
   private boolean closed;
 
